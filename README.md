@@ -19,7 +19,7 @@ Bu Telegram bot foydalanuvchilardan turli xil arizalarni qabul qilish, ularni sh
 
 ```bash
 git clone [https://github.com/your-username/ariza-bot.git](https://github.com/nematovN/repition_exam_1.git)
-cd 
+cd repition_exam
 ```
 
 ### 2. Virtual muhit yaratish
