@@ -95,8 +95,8 @@ ariza-bot/
 
 ## 📬 Bog‘lanish
 
-* Telegram: [@admin\_username](https://t.me/admin_username)
-* Email: [admin@example.com](mailto:admin@example.com)
+* Telegram: [@admin\_username](https://t.me/opensure)
+* Email: [admin@example.com](nemat8954@gmail.com)
 
 ---
 
